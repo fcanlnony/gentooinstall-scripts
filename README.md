@@ -29,3 +29,4 @@ cdimage ~# reboot
 # Warring
 *This scripts only support ext4 filesystem                                                                                                                 
 *I assume by default that you don't have a DNS domain name and a nix domain name                                                                           
+*Only write for the amd64(x86_64) architecture CPU                                                                                                          
