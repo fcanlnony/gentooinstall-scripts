@@ -1,5 +1,5 @@
 # gentoo-scripts
-some useful scripts write in bash
+Gentoo install scripts write in bash
 
 # how to use this scripts
 
